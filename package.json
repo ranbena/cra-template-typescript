@@ -9,7 +9,6 @@
   "main": "template.json",
   "license": "MIT",
   "author": "ranbena <ranbena@gmail.com>",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ranbena/cra-template-typescript.git"
